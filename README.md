@@ -1,6 +1,6 @@
 # Meals App
 
-An app that allows users to search for a meal and get the recipe for that meal.[click here to view the app](https://mr-kotresh-gb.github.io/Meals-app/)
+An app that allows users to search for a meal and get the recipe for that meal. [Demo](https://mr-kotresh-gb.github.io/Meals-app/)
 
 ## App Interface
 
